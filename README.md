@@ -6,4 +6,4 @@
 * E.g. https://career.company.com --> https://www.company.com/career.html
 *      https://company.com/events --> https://www.company.com/events.html
 
-### :book: [Live Demo](https://storage.googleapis.com/hawk-static-website/index.html)
+### :book: [Live Demo](http://www.overlooked.xyz/)
