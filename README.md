@@ -6,4 +6,6 @@
 * E.g. https://career.company.com --> https://www.company.com/career.html
 *      https://company.com/events --> https://www.company.com/events.html
 
-### :book: [Live Demo](http://www.overlooked.xyz/)
+### :book: [Live Demo - Without Load Balancer](http://www.overlooked.xyz/)
+### :book: [Live Demo - With Load Balancer + SSL](https://secure.overlooked.xyz/)
+* Take note of the URL addresss bar for secure ssl status
