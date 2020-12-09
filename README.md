@@ -1,6 +1,6 @@
 # gcp-static-site
 ### Host static website on Google Cloud Platform (GCP) for free
-* No servers required, it can be potentially **ALWAYS" free
+* No servers required, it can be potentially **ALWAYS**free
 
 ### Can add in Load Balancer to achieve **URL-Rewrite** types of features
 * E.g. https://career.company.com --> https://www.company.com/career.html
